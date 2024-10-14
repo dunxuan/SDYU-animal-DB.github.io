@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ""
     org_name: ""
-    description: "A highly-customizable Hugo blog theme powered by Wowchemy website builder."
-    twitter: "GetResearchDev"
+    description: "Organization"
+    twitter: ""
   analytics:
     google_analytics: ""
     baidu_tongji: ""
@@ -76,7 +76,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: "twikoo"
+    provider: ""
     disqus:
       shortname: ""
       show_count: true
@@ -87,9 +87,9 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
-    twikoo:
-      env_id: "https://twikoo.dunxuan.xyz"
-      js_url: "https://registry.npmmirror.com/twikoo/latest/files/dist/twikoo.min.js"
+    # twikoo:
+    #   env_id: "https://twikoo.dunxuan.xyz"
+    #   js_url: "https://registry.npmmirror.com/twikoo/latest/files/dist/twikoo.min.js"
   search:
     provider: "wowchemy"
     algolia:
