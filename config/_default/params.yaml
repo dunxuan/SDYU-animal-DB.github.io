@@ -21,8 +21,7 @@ marketing:
     description: "Organization"
     twitter: ""
   analytics:
-    services:
-      google_analytics: ""
+    google_analytics: ""
     baidu_tongji: ""
     google_tag_manager: ""
     microsoft_clarity: ""
