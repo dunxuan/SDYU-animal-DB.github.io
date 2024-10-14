@@ -16,18 +16,18 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: ""
+    org_name: ""
+    description: "A highly-customizable Hugo blog theme powered by Wowchemy website builder."
+    twitter: "GetResearchDev"
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    google_analytics: ""
+    baidu_tongji: ""
+    google_tag_manager: ""
+    microsoft_clarity: ""
   verification:
-    google: ''
-    baidu: ''
+    google: ""
+    baidu: ""
 
 # Site header
 
@@ -35,7 +35,7 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -43,24 +43,24 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "© 2024-{year} [顿玄](https://github.com/dunxuan/SDYU-animal-DB.github.io). 本网站采用{license}协议"
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "2006-01-02"
+  time_format: "15:04"
 
 # Site features
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
@@ -69,34 +69,37 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: "https://github.com/dunxuan/SDYU-animal-DB.github.io"
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: "twikoo"
     disqus:
-      shortname: ''
+      shortname: ""
       show_count: true
     commento:
-      url: ''
+      url: ""
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: ""
+      repo_id: ""
+      category: ""
+      category_id: ""
+    twikoo:
+      env_id: "https://twikoo.dunxuan.xyz"
+      js_url: "https://registry.npmmirror.com/twikoo/latest/files/dist/twikoo.min.js"
   search:
-    provider: ''
+    provider: "wowchemy"
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: ""
+      api_key: ""
+      index_name: ""
       show_logo: false
   map:
-    provider: ''
-    api_key: ''
+    provider: ""
+    api_key: ""
     zoom: 15
 
 extensions:

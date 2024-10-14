@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 顿玄
+title: 山青动物信息数据库
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -42,15 +42,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto: dunxuan@dunxuan.xyz' # For a direct email link, use "mailto:test@example.org".
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/dunxuan
   - icon: house
     icon_pack: fas
-    link: https://www.dunxuan.xyz/
+    link: https://sad.dunxuan.xyz/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
