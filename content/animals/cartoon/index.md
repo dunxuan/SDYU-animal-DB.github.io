@@ -31,4 +31,4 @@ author: admin
 
 相关资料：
 
-<iframe width="1080" height="1920" frameborder="0" src="https://open.douyin.com/player/video?vid=7424791301058596146&autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+<iframe src="https://open.douyin.com/player/video?vid=7424791301058596146&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" referrerpolicy="unsafe-url"></iframe>
