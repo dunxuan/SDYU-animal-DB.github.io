@@ -11,26 +11,17 @@ author: admin
 
 # 小芝麻糊
 
-毛色：
-
+毛色：黑底白脚带点黄
 性别：
-
 健康状况：
-
-绝育：
-
-绝育时间：
-
+绝育：否
+绝育时间：无
 常见位置：
-
-性格：
-
+性格：活泼爱动
 外貌：
-
 备注：
 
-相关资料：
-
-[@我不是喵喵侠 2024-10-12](https://v.douyin.com/iBvUVAse/)
-
-[@我不是喵喵侠 2024-10-14](https://v.douyin.com/iBvyFjmb/)
+## 相关资料：
+@我不是喵喵侠：
+[2024-10-12](https://v.douyin.com/iBvUVAse/)
+[2024-10-14](https://v.douyin.com/iBvyFjmb/)
