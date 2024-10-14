@@ -87,6 +87,8 @@ features:
       repo_id: "R_kgDOM_6wbw"
       category: "General"
       category_id: "DIC_kwDOM_6wb84CjWXf"
+      mapping: "title"
+      language_code: "zh-CN"
   search:
     provider: "wowchemy"
     algolia:
