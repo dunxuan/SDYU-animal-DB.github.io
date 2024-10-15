@@ -30,10 +30,12 @@ content:
       tag: '*'
     - name: 公告
       tag: 公告
+    - name: 玳瑁
+      tag: 玳瑁
     - name: 橘猫
       tag: 橘猫
     - name: 奶牛
-      tag: 三花
+      tag: 奶牛
     - name: 三花
       tag: 三花
 
