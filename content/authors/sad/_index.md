@@ -41,10 +41,16 @@ bio:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-#   - icon: house
-#     icon_pack: fas
-#     link: https://sad.dunxuan.xyz/
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: sad@dunxuan.xyz' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/dunxuan/SDYU-animal-DB.github.io
+  - icon: house
+    icon_pack: fas
+    link: https://sad.dunxuan.xyz/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
