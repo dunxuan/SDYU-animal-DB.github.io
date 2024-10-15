@@ -28,6 +28,8 @@ content:
   filter_button:
     - name: 全部
       tag: '*'
+    - name: 公告
+      tag: 公告
     - name: 橘猫
       tag: 橘猫
     - name: 奶牛
