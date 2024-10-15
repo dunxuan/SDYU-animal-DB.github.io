@@ -5,9 +5,13 @@ tags:
   - 奶牛
   - 三花
 date: 2024-10-14
-commentable: true
-# external_link: http://github.com
 author: sad
+
+share: true
+profile: true
+commentable:
+editable: true
+show_related: true
 ---
 
 # 小芝麻糊
