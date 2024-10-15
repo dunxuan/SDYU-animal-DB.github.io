@@ -18,6 +18,6 @@ author: admin
 
 @我不是喵喵侠：
 
-<iframe width="100%" height="100%" frameborder="0" src="https://open.douyin.com/player/video?vid=7364265076712312127&autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+- [2024-10-12](https://v.douyin.com/iBvUVAse/)
 
-<iframe width="100%" height="100%" frameborder="0" src="https://open.douyin.com/player/video?vid=7424791301058596146&autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+- [2024-10-14](https://v.douyin.com/iBvyFjmb/)
