@@ -1,10 +1,11 @@
 # Page Sharer
 # Documentation: https://docs.hugoblox.com/reference/page-sharer/
 
-[[buttons]]
-  id = "email"
-  url = "mailto:?subject={title}&body={url}"
-  title = "Email"
-  icon_pack = "fas"
-  icon = "envelope"
-  enable = true
+# [[buttons]]
+#   id = "email"
+#   url = "mailto:?subject={title}&body={url}"
+#   title = "Email"
+#   icon_pack = "fas"
+#   icon = "envelope"
+#   enable = true
+# 
