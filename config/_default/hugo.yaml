@@ -14,7 +14,9 @@ cascade:
   # Blog post options
   - _target:
       path: /animals/**
-    editable: true
+    share: false
+    profile: true
+    editable: false
     reading_time: false
     commentable: true
     show_related: true

@@ -5,14 +5,10 @@ tags:
   - 奶牛
   - 三花
 date: 2024-10-14
-authors: 
+authors:
   - sad
 
-share: true
-profile: false
-commentable:true
-editable: true
-show_related: true
+commentable: true
 ---
 
 # 小芝麻糊
