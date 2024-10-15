@@ -15,7 +15,7 @@ cascade:
   - _target:
       path: /animals/**
     share: false
-    profile: false
+    profile: true
     editable: false
     reading_time: false
     commentable: true
