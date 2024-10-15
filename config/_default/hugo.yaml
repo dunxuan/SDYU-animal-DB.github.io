@@ -13,9 +13,9 @@ baseURL: 'https://sad.dunxuan.xyz' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /post/**
+      path: /animals/**
     editable: true
-    reading_time: true
+    reading_time: false
     commentable: true
     show_related: true
     show_breadcrumb: true

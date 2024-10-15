@@ -5,11 +5,12 @@ tags:
   - 奶牛
   - 三花
 date: 2024-10-14
-author: sad
+authors: 
+  - sad
 
 share: true
-profile: true
-commentable:
+profile: false
+commentable:true
 editable: true
 show_related: true
 ---
