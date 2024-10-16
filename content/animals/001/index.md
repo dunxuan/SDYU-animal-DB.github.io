@@ -12,8 +12,6 @@ image:
   preview_only: true
 ---
 
-# 小芝麻糊
-
 {{< table path="table.csv" header="false" >}}
 
 {{< gallery album="小芝麻糊" >}}

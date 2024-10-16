@@ -12,8 +12,6 @@ image:
   preview_only: true
 ---
 
-# 小玳瑁
-
 {{< table path="table.csv" header="false" >}}
 
 {{< gallery album="小玳瑁" >}}
