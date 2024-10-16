@@ -8,7 +8,7 @@ authors:
 tags:
   - 玳瑁
 image:
-  filename: 爆裂黎明1.jpeg
+  filename: 爆-裂-黎-明1.jpeg
   preview_only: true
 ---
 
