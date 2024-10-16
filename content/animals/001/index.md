@@ -15,8 +15,6 @@ authors:
 
 {{< gallery album="小芝麻糊" >}}
 
-视频资料：
-
 @我不是喵喵侠：
 
 - [2024-10-12](https://v.douyin.com/iBvUVAse/)
