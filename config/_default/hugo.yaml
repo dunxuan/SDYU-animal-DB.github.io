@@ -13,7 +13,7 @@ baseURL: 'https://sad.dunxuan.xyz' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /blog/**
+      path: /post/**
     share: false
     profile: true
     editable: false
@@ -44,6 +44,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
+  animals: '/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
