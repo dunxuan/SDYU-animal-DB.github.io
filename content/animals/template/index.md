@@ -1,6 +1,5 @@
 ---
 title: 猫猫信息上传模板
-slug: "000"
 date: 2024-10-15
 summary: 猫猫等你的信息很久啦
 featured: true
