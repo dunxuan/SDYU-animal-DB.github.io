@@ -1,17 +1,12 @@
 ---
 title: 奶茶猫
 slug: "003"
-date: 2024-10-16T14:02:00.000Z
-draft: false
-featured: false
+date: 2024-10-16
+summary: "小鹿色的一辆橘白大卡车"
 authors:
   - 61_
 tags:
   - 橘猫
-image:
-  filename: featured.jpeg
-  focal_point: Smart
-  preview_only: false
 ---
 # 奶茶猫
 
