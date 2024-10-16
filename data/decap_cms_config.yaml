@@ -139,7 +139,7 @@ collections:
         widget: "list"
       - label: "标签列表"
         name: "tags"
-        required: false
+        required: true
         widget: "list"
       - label: "分类列表"
         name: "categories"
