@@ -1,6 +1,6 @@
 ---
 title: 奶茶猫
-slug: "002"
+slug: "003"
 date: 2024-10-16T13:56:00.000Z
 draft: true
 featured: false
