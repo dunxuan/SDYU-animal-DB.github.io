@@ -1,12 +1,14 @@
 ---
-title: "小芝麻糊"
+title: 小芝麻糊
 slug: "001"
-summary: "奶牛+三花的奇妙组合"
-tags:
-  - 玳瑁
 date: 2024-10-14
+summary: 奶牛+三花的奇妙组合
 authors:
   - dunxuan
+tags:
+  - 玳瑁
+image:
+  preview_only: true
 ---
 
 # 小芝麻糊
