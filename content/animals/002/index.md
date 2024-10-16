@@ -8,9 +8,12 @@ authors:
 tags:
   - 玳瑁
 image:
+  filename: 61_1.jpeg
   preview_only: true
 ---
 
 # 小玳瑁
 
 {{< table path="table.csv" header="false" >}}
+
+{{< gallery album="小玳瑁" >}}
