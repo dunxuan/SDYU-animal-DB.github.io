@@ -6,6 +6,8 @@ draft: false
 featured: false
 authors:
   - 61_
+tags:
+  - 橘猫
 image:
   filename: featured.jpeg
   focal_point: Smart
