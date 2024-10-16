@@ -119,7 +119,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "标题 (名称)", name: "title", widget: "string" }
-      - { label: "子标题", name: "subtitle", widget: "string", required: false }
+      - { label: "编号", name: "slug", widget: "string", required: true }
       - { label: "内容", name: "body", widget: "markdown" }
       - { label: "发布日期", name: "date", widget: "datetime" }
       - { label: "简介", name: "summary", widget: "markdown", required: false }
