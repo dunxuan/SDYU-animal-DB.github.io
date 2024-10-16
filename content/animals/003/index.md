@@ -8,8 +8,9 @@ authors:
 tags:
   - 橘猫
 ---
+
 # 奶茶猫
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album="奶茶猫" >}}
+{{< gallery album={{title}} >}}

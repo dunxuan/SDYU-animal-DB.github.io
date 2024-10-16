@@ -13,6 +13,8 @@ authors:
 
 {{< table path="table.csv" header="false" >}}
 
+{{< gallery album={{title}} >}}
+
 ## 相关资料：
 
 @我不是喵喵侠：
