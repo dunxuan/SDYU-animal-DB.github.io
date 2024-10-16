@@ -1,5 +1,6 @@
 ---
 title: 小玳瑁
+slug: 002
 summary: 带口水巾的优雅大佬
 tags:
   - 玳瑁

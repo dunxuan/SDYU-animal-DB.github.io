@@ -1,9 +1,9 @@
 ---
 title: 小芝麻糊
+slug: 001
 summary: 奶牛+三花的奇妙组合
 tags:
-  - 奶牛
-  - 三花
+  - 玳瑁
 date: 2024-10-14
 authors:
   - dunxuan
