@@ -4,7 +4,8 @@ summary: 带口水巾的优雅大佬
 tags:
   - 玳瑁
 date: 2024-10-15
-authors: zcy
+authors:
+  - zcy
 ---
 
 # 小玳瑁
