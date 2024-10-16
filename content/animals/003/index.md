@@ -8,6 +8,8 @@ authors:
   - 爆-裂-黎-明
 tags:
   - 橘猫
+image:
+  filename: 61_1.jpeg
 ---
 
 # 奶茶猫
