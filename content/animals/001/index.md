@@ -13,7 +13,7 @@ authors:
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album={{title}} >}}
+{{< gallery album="小芝麻糊" >}}
 
 ## 相关资料：
 

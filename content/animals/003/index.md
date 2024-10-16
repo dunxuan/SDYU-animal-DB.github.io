@@ -13,4 +13,4 @@ tags:
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album={{title}} >}}
+{{< gallery album="奶茶猫" >}}
