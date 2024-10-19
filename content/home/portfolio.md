@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
-subtitle: ''
+title: ""
+subtitle: ""
 
 content:
   # Page type to display. E.g. project.
@@ -27,21 +27,22 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: 全部
-      tag: '*'
+      tag: "*"
     - name: 公告
       tag: 公告
     - name: 三花玳瑁
-      tag: 玳瑁
-      tag: 三花
+      tag:
+        - 玳瑁
+        - 三花
     - name: 橘猫
       tag: 橘猫
     - name: 奶牛
       tag: 奶牛
 
 design:
-  columns: '1'
+  columns: "1"
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: { padding: [0, 0, 0, 0] }
 ---
