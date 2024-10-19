@@ -14,4 +14,4 @@ image:
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album="005" >}}
+{{< gallery album="粑粑嘴" >}}

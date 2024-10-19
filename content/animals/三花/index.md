@@ -14,7 +14,7 @@ image:
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album="004" >}}
+{{< gallery album="三花" >}}
 
 @我不是喵喵侠：
 
