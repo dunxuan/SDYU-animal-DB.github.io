@@ -48,9 +48,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/dunxuan/SDYU-animal-DB.github.io
-  - icon: house
-    icon_pack: fas
-    link: https://sad.dunxuan.xyz/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
