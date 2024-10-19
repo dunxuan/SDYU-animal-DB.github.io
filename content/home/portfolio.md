@@ -31,7 +31,7 @@ content:
     - name: 公告
       tag: 公告
     - name: 三花玳瑁
-      tag:
+      tags:
         - 玳瑁
         - 三花
     - name: 橘猫
