@@ -19,7 +19,7 @@ cascade:
     editable: false
     reading_time: false
     commentable: true
-    show_related: true
+    show_related: false
     show_breadcrumb: true
 
 ############################
@@ -70,8 +70,6 @@ related:
   indices:
     - name: tags
       weight: 100
-    - name: categories
-      weight: 70
 security:
   _merge: deep
 sitemap:
