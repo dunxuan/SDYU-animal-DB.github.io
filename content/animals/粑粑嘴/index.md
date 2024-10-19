@@ -6,7 +6,7 @@ summary: 爱看热闹
 authors:
   - 耶啵耶啵耶啵
 tags:
-  - 三花
+  - 橘猫
 image:
   filename: 耶啵耶啵耶啵1.jpeg
   preview_only: true
