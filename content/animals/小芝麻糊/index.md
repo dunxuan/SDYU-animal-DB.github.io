@@ -2,7 +2,7 @@
 title: 小芝麻糊
 slug: "001"
 date: 2024-10-14
-summary: 奶牛+三花的奇妙组合
+summary: 三花被领养剩的最后一只
 authors:
   - dunxuan
 tags:
