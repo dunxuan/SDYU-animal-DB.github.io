@@ -1,8 +1,8 @@
 ---
-title: 三花
+title: 小乖
 slug: "004"
 date: 2024-10-19
-summary: 刚生了一窝
+summary: 刚生了一窝，没断奶
 authors:
   - dunxuan
 tags:
@@ -14,7 +14,7 @@ image:
 
 {{< table path="table.csv" header="false" >}}
 
-{{< gallery album="三花" >}}
+{{< gallery album="小乖" >}}
 
 @我不是喵喵侠：
 
